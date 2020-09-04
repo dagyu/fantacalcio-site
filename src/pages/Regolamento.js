@@ -41,7 +41,7 @@ export function RegolamentoPage() {
 
   return (
     <MDBContainer>
-      <h1 className="text-center">Regolamento Fantacalcio 2020/2021</h1>
+      <h1 className="text-center">Regolamento Fantacalcio 2020-2021</h1>
       <MDBNav tabs className="mt-4">
         {
           tabs.map(e =>
