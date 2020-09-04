@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fantacalcio-site/precache-manifest.8823d0b3b7c18a0ea135a8fbb4759b77.js"
+  "/fantacalcio-site/precache-manifest.69bb8439e5567401616c4a611b947e82.js"
 );
 
 self.addEventListener('message', (event) => {
