@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc66c0a95ae8b3da8960dd3b2de49d91",
+    "revision": "89fdd4c95b31670eb5d121b0640c1c9b",
     "url": "/fantacalcio-site/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fantacalcio-site/static/js/2.63a151ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be676dfa0f18890e8ad6",
-    "url": "/fantacalcio-site/static/js/main.27351a49.chunk.js"
+    "revision": "2f4380259165dd2d22a6",
+    "url": "/fantacalcio-site/static/js/main.78850d5e.chunk.js"
   },
   {
     "revision": "afd70524f564fffce9a0",
