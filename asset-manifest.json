@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/fantacalcio-site/static/js/main.2938ae9e.chunk.js",
-    "main.js.map": "/fantacalcio-site/static/js/main.2938ae9e.chunk.js.map",
+    "main.js": "/fantacalcio-site/static/js/main.27351a49.chunk.js",
+    "main.js.map": "/fantacalcio-site/static/js/main.27351a49.chunk.js.map",
     "runtime-main.js": "/fantacalcio-site/static/js/runtime-main.6648dca0.js",
     "runtime-main.js.map": "/fantacalcio-site/static/js/runtime-main.6648dca0.js.map",
     "static/css/2.8aeb73c0.chunk.css": "/fantacalcio-site/static/css/2.8aeb73c0.chunk.css",
     "static/js/2.63a151ba.chunk.js": "/fantacalcio-site/static/js/2.63a151ba.chunk.js",
     "static/js/2.63a151ba.chunk.js.map": "/fantacalcio-site/static/js/2.63a151ba.chunk.js.map",
     "index.html": "/fantacalcio-site/index.html",
-    "precache-manifest.69bb8439e5567401616c4a611b947e82.js": "/fantacalcio-site/precache-manifest.69bb8439e5567401616c4a611b947e82.js",
+    "precache-manifest.cf0dbd8f5a277e0a8e90daa4bc9660d6.js": "/fantacalcio-site/precache-manifest.cf0dbd8f5a277e0a8e90daa4bc9660d6.js",
     "service-worker.js": "/fantacalcio-site/service-worker.js",
     "static/css/2.8aeb73c0.chunk.css.map": "/fantacalcio-site/static/css/2.8aeb73c0.chunk.css.map",
     "static/js/2.63a151ba.chunk.js.LICENSE.txt": "/fantacalcio-site/static/js/2.63a151ba.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.6648dca0.js",
     "static/css/2.8aeb73c0.chunk.css",
     "static/js/2.63a151ba.chunk.js",
-    "static/js/main.2938ae9e.chunk.js"
+    "static/js/main.27351a49.chunk.js"
   ]
 }
